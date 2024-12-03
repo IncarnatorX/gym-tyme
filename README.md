@@ -1,3 +1,3 @@
 # gym-tyme
 
-https://user-vishnu.github.io/gym-tyme/
+https://IncarnatorX.github.io/gym-tyme/
